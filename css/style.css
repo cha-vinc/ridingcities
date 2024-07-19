@@ -1,7 +1,7 @@
 /*GENERAL*/
 :root {
-  --main-color: #482eaf; /* var(--main-color) */
-  --second-color: hsl(112, 69%, 37%); /* var(--second-color) */
+  --main-color: #E44444; /* var(--main-color) */
+  --second-color:#CD487B; /* var(--second-color) */
   --light-grey-color: #EDEDED; /* var(--light-grey-color) */
   --drak-grey-color: #4B4B4B; /* var(--drak-grey-color) */
 }
